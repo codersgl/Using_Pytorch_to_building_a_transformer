@@ -1,0 +1,3 @@
+# basic requirements
+--find-links https://pypi.tuna.tsinghua.edu.cn/simple
+numpy==1.26.3
